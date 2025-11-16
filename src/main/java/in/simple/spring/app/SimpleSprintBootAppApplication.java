@@ -1,4 +1,4 @@
-package Simple.Sprint.Boot.App;
+package in.simple.spring.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
